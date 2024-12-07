@@ -1,4 +1,3 @@
-# Machine Learning Term Project - Group 21
 
 <!-- 
 ## Table of Contents
